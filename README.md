@@ -1,4 +1,4 @@
-<img src = "https://raw.githubusercontent.com/Ranjana/Ranjana/d30b296b0cf239ad535e017ef5e43ff4d5d26485/gitartwork.svg"
+![gitartwork](gitartwork.svg)
 
 <h1 align="center">Hi 👋, I'm Ranjana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
