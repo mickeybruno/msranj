@@ -1,4 +1,4 @@
-![gitartwork](gitartwork.svg)
+![gitartwork](gitartwork.svg?v=2)
 
 <h1 align="center">Hi 👋, I'm Ranjana</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
