@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msranj&label=Profile%20views&color=0e75b6&style=flat" alt="msranj" /> </p>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
