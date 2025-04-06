@@ -13,4 +13,5 @@ jobs:
         with:
            user_name: msranjana
            text: RANJANA
+           remove_footer: true      # ← this removes the "Get your own gitartwork" line
       - uses: jasineri/simple-push-action@v1
